@@ -1,0 +1,3 @@
+[submodule "SubModuletest"]
+	path = SubModuletest
+	url = git@github.com:chao0707/SubModuletest.git
